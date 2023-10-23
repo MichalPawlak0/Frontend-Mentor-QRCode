@@ -10,7 +10,7 @@ a{
 
 html{
   font-size: 0.625em;
-  font-family:'Roboto';
+  font-family:'Outfit';
 }
 
 body{
@@ -19,7 +19,7 @@ body{
 }
 
 .container{
-  background-color: rgb(199, 235, 227);
+  background-color: hsl(212, 45%, 89%);
   padding: 10rem 10rem 2rem 10rem;
   min-height: 50vh;
   display: grid;
@@ -53,10 +53,10 @@ body{
 .cta{
   margin:1.2rem auto 0;
   padding-bottom:3rem;
-  width:80%;
+  
   line-height: 1.5;
   color:#8a8a8a;
-  font-size: 1.25rem;
+  font-size: 1.5rem;
 }
 
 .qrcode-img{
